@@ -1,0 +1,26 @@
+{
+  "verified_cases": {
+    "Brown v. Board of Education": {
+      "citation": "347 U.S. 483 (1954)",
+      "verified": true,
+      "topic": "Civil Rights"
+    },
+    "Marbury v. Madison": {
+      "citation": "5 U.S. 137 (1803)",
+      "verified": true,
+      "topic": "Constitutional Law"
+    },
+    "Miranda v. Arizona": {
+      "citation": "384 U.S. 436 (1966)",
+      "verified": true,
+      "topic": "Criminal Procedure"
+    }
+  },
+  "fake_cases": {
+    "Smith v. Jones": {
+      "citation": "123 F.3d 456 (2023)",
+      "verified": false,
+      "reason": "Fabricated case"
+    }
+  }
+}
